@@ -1,4 +1,4 @@
-# NVIDIA Stock Analysis and Next-Day Price Prediction
+# Exploratory Stock Price Prediction using Decision Trees and Time-Series Features (NVIDIA)
 
 ## Overview
 
