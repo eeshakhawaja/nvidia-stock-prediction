@@ -10,13 +10,11 @@ The main goal was not just to train a model, but to understand what can realisti
 
 ## What this project covers
 
-In this project, I:
-
-* cleaned and prepared historical NVIDIA stock data
-* explored trends and short-term price behaviour
-* created new features such as day of the week and moving averages
-* built a Decision Tree model to classify next-day price direction
-* evaluated the model and reflected on its limitations
+* cleaning and prepartion of historical NVIDIA stock data
+* exploration of trends and short-term price behaviour
+* features creation such as day of the week and moving averages
+* Decision Tree model to classify next-day price direction
+* evaluation of the model and reflected on its limitations
 
 ---
 
