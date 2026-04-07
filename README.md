@@ -17,7 +17,8 @@ The main goal was not just to train a model, but to understand what can realisti
 * evaluation of the model and reflected on its limitations
 
 ---
-
+## Data Source: https://doi.org/10.6084/m9.figshare.28548725
+---
 ## Dataset
 
 The dataset includes historical NVIDIA stock information such as:
